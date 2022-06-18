@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kamilhajdukiewicz
 - 📅 24 y.o.
 - 🏫 Master of Computer Science, graduated at Westpomeranian University of Techonology in Szczecin.
-- 🚗 Software Engineer, Main language - C++
+- 🚗 4 years of experience as a Software Engineer, Main language - C++.
 - 👀 I’m interested in C++ and all the stuff related to C++ programming.
 - 🌱 I’m currently learning Rust.
